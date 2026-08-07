@@ -206,5 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Clear solution
+# Clear solution and outputs
 clear_solution.py
+clear_all_outputs.py
